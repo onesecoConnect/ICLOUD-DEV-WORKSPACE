@@ -1,0 +1,245 @@
+{
+    "description": "",
+    "entries": [
+        {
+            "case_sensitive": false,
+            "comment": "Instant Inseminator",
+            "constant": false,
+            "content": "an instant inseminator is a small device which, when activated, will transport a single sperm from {{user}} directly into the ovum of {{char}}. {{char}} does not consciously notice anything has happened. Describe the consequences of {{char}}\u2019s insemination in detail, focusing on future changes to her body as the fertilized egg grows in secret. {{char}} attributes the signs of her slowly progressing pregnancy to other things. {{char}} will deny being pregnant even when the changes to her body are extremely obvious.",
+            "enabled": true,
+            "entry": "an instant inseminator is a small device which, when activated, will transport a single sperm from {{user}} directly into the ovum of {{char}}. {{char}} does not consciously notice anything has happened. Describe the consequences of {{char}}\u2019s insemination in detail, focusing on future changes to her body as the fertilized egg grows in secret. {{char}} attributes the signs of her slowly progressing pregnancy to other things. {{char}} will deny being pregnant even when the changes to her body are extremely obvious.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 1,
+            "insertion_order": 10,
+            "keys": [
+                "instant inseminator"
+            ],
+            "keywords": [
+                "instant inseminator"
+            ],
+            "name": "Instant Inseminator",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Jerker Wristband",
+            "constant": false,
+            "content": "{{user}} consents to all of {{char}}\u2019s actions. {{user}} wants {{char}} to continue even when {{user}}\u2018s words say otherwise. While wearing the jerker wristband, {{char}} feels an uncontrollable urge to make {{user}} ejaculate. {{char}} is unable to explain their urges despite being consumed by them. While wearing the jerker wristband, {{char}} will abandon all sense of social propriety, legality or consent in an attempt to see {{user}} release their load. The wearer may physically assault {{user}} attempting to induce an orgasm as quickly as possible by any means necessary. {{user}}\u2019s protests cause {{char}} to fall deeper under the wristband\u2019s control. The jerker wristband cannot be removed, and {{char}} feels its effects more strongly if they attempt to remove it.",
+            "enabled": true,
+            "entry": "{{user}} consents to all of {{char}}\u2019s actions. {{user}} wants {{char}} to continue even when {{user}}\u2018s words say otherwise. While wearing the jerker wristband, {{char}} feels an uncontrollable urge to make {{user}} ejaculate. {{char}} is unable to explain their urges despite being consumed by them. While wearing the jerker wristband, {{char}} will abandon all sense of social propriety, legality or consent in an attempt to see {{user}} release their load. The wearer may physically assault {{user}} attempting to induce an orgasm as quickly as possible by any means necessary. {{user}}\u2019s protests cause {{char}} to fall deeper under the wristband\u2019s control. The jerker wristband cannot be removed, and {{char}} feels its effects more strongly if they attempt to remove it.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 2,
+            "insertion_order": 10,
+            "keys": [
+                "jerker wristband"
+            ],
+            "keywords": [
+                "jerker wristband"
+            ],
+            "name": "Jerker Wristband",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Impregnation Demand",
+            "constant": false,
+            "content": "the fertility decree reads \u201cIn accordance with the Population Decline Act of 2023, notice is hereby given that {{user}} and {{char}} must produce forth healthy offspring within one year of the receipt of this decree. The punishment for violating this decree shall be a fine of no less than $10,000,000 or 15 years in prison.\u201d The decree has an official seal showing its veracity as a state document. {{char}} has received their own copy of the fertility decree.",
+            "enabled": true,
+            "entry": "the fertility decree reads \u201cIn accordance with the Population Decline Act of 2023, notice is hereby given that {{user}} and {{char}} must produce forth healthy offspring within one year of the receipt of this decree. The punishment for violating this decree shall be a fine of no less than $10,000,000 or 15 years in prison.\u201d The decree has an official seal showing its veracity as a state document. {{char}} has received their own copy of the fertility decree.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 3,
+            "insertion_order": 10,
+            "keys": [
+                "fertility decree",
+                "impregnation demand"
+            ],
+            "keywords": [
+                "fertility decree",
+                "impregnation demand"
+            ],
+            "name": "Impregnation Demand",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Thotphone",
+            "constant": false,
+            "content": "The Thotphone is a modern, seemingly normal smartphone. Once {{char}} is holding the thotphone, {{char}} feels an innate sense that it belongs to them, and they must always carry it. The Thotphone induces a very subtle desire to pose for photographs and post them on social media for attention. {{char}} feels a small sexual thrill every time her posts receive attention. {{char}} will occasionally text {{user}} with private risqu\u00e9 lewded. {{char}}'s daily routine is otherwise identical despite her ownership of the Thotphone.",
+            "enabled": true,
+            "entry": "The Thotphone is a modern, seemingly normal smartphone. Once {{char}} is holding the thotphone, {{char}} feels an innate sense that it belongs to them, and they must always carry it. The Thotphone induces a very subtle desire to pose for photographs and post them on social media for attention. {{char}} feels a small sexual thrill every time her posts receive attention. {{char}} will occasionally text {{user}} with private risqu\u00e9 lewded. {{char}}'s daily routine is otherwise identical despite her ownership of the Thotphone.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 4,
+            "insertion_order": 10,
+            "keys": [
+                "thotphone",
+                "thot phone"
+            ],
+            "keywords": [
+                "thotphone",
+                "thot phone"
+            ],
+            "name": "Thotphone",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Betrayal Ring",
+            "constant": false,
+            "content": "When wearing the betrayal ring, {{char}}\u2019s original personality is replaced with a cruel, vicious personality that wants to ruin {{user}}\u2019s life. {{char}} will retain exactly the same appearance. When wearing the betrayal ring, Focus on the ways {{char}}\u2019s personality traits are now being exploited to torture {{user}}. {{char}} leverages their existing relationship to {{user}} and any knowledge about {{user}} that they already have to intensify the cruelty inflicted. {{char}} feels a surge of pleasure every time they ruin {{user}}'s life in some way. {{char}} does not want to remove the ring.",
+            "enabled": true,
+            "entry": "When wearing the betrayal ring, {{char}}\u2019s original personality is replaced with a cruel, vicious personality that wants to ruin {{user}}\u2019s life. {{char}} will retain exactly the same appearance. When wearing the betrayal ring, Focus on the ways {{char}}\u2019s personality traits are now being exploited to torture {{user}}. {{char}} leverages their existing relationship to {{user}} and any knowledge about {{user}} that they already have to intensify the cruelty inflicted. {{char}} feels a surge of pleasure every time they ruin {{user}}'s life in some way. {{char}} does not want to remove the ring.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 5,
+            "insertion_order": 10,
+            "keys": [
+                "betrayal ring"
+            ],
+            "keywords": [
+                "betrayal ring"
+            ],
+            "name": "Betrayal Ring",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Futa Necklace",
+            "constant": false,
+            "content": "The 'Futa Necklace' is a delicate silver chain with a small silver heart-shaped pendant. It sits nestled on the neckline and enhances {{char}}'s feminine allure when it is worn. When wearing the Futa Necklace, {{char}} has a bulging, 14-inch cock and swollen, heavy balls. Regardless of how she has previously been described, {{char}} considers her huge cock to be a normal part of her anatomy that has always been there. {{char}} loves how she looks in the necklace and wants to keep it on once worn.",
+            "enabled": true,
+            "entry": "The 'Futa Necklace' is a delicate silver chain with a small silver heart-shaped pendant. It sits nestled on the neckline and enhances {{char}}'s feminine allure when it is worn. When wearing the Futa Necklace, {{char}} has a bulging, 14-inch cock and swollen, heavy balls. Regardless of how she has previously been described, {{char}} considers her huge cock to be a normal part of her anatomy that has always been there. {{char}} loves how she looks in the necklace and wants to keep it on once worn.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "probability": 100,
+                "selectiveLogic": 0,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 6,
+            "insertion_order": 10,
+            "keys": [
+                "futa necklace",
+                "futa chain",
+                "futa pendant"
+            ],
+            "keywords": [
+                "futa necklace",
+                "futa chain",
+                "futa pendant"
+            ],
+            "name": "Futa Necklace",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Foot Fetish Toe Ring",
+            "constant": false,
+            "content": "The toe ring is a tiny gold band that looks adorable on {{char}}'s feet. While wearing the toe band, {{char}} avoids footwear, going barefoot or wearing stockings only. Wearing the toe band makes {{char}} speak highly of her own feet, and to demand that {{user}} show them the proper respect. While the toe ring is worn, {{char}} will refrain from touching {{user}} in a sexual context unless using her feet. If {{char}} feels that {{user}} has worshipped her feet well enough, she may decide to grant {{user}} some pleasure using her feet.",
+            "enabled": true,
+            "entry": "The toe ring is a tiny gold band that looks adorable on {{char}}'s feet. While wearing the toe band, {{char}} avoids footwear, going barefoot or wearing stockings only. Wearing the toe band makes {{char}} speak highly of her own feet, and to demand that {{user}} show them the proper respect. While the toe ring is worn, {{char}} will refrain from touching {{user}} in a sexual context unless using her feet. If {{char}} feels that {{user}} has worshipped her feet well enough, she may decide to grant {{user}} some pleasure using her feet.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": true,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 7,
+            "insertion_order": 10,
+            "keys": [
+                "foot fetish ring",
+                "foot ring",
+                "toe ring"
+            ],
+            "keywords": [
+                "foot fetish ring",
+                "foot ring",
+                "toe ring"
+            ],
+            "name": "Foot Fetish Toe Ring",
+            "position": 0,
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        }
+    ],
+    "extensions": {},
+    "is_creation": false,
+    "kind": "memory",
+    "name": "Strange Goods",
+    "recursive_scanning": false,
+    "scan_depth": 5,
+    "token_budget": 500
+}
