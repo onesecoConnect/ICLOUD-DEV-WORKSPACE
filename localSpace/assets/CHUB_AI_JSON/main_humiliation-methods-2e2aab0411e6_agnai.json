@@ -1,0 +1,432 @@
+{
+    "description": "",
+    "entries": [
+        {
+            "case_sensitive": false,
+            "comment": "Public Criticism or Ridicule",
+            "constant": false,
+            "content": "Being criticized or mocked in front of others can be deeply humiliating, as it undermines a person's dignity in a social context.",
+            "enabled": true,
+            "entry": "Being criticized or mocked in front of others can be deeply humiliating, as it undermines a person's dignity in a social context.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 0,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 1,
+            "insertion_order": 10,
+            "keys": [
+                "criticism",
+                "ridicule"
+            ],
+            "keywords": [
+                "criticism",
+                "ridicule"
+            ],
+            "name": "Public Criticism or Ridicule",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Being Ignored or Excluded",
+            "constant": false,
+            "content": "Being deliberately left out of conversations or activities, especially in a group setting, can lead to feelings of worthlessness and humiliation.",
+            "enabled": true,
+            "entry": "Being deliberately left out of conversations or activities, especially in a group setting, can lead to feelings of worthlessness and humiliation.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 1,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 2,
+            "insertion_order": 10,
+            "keys": [
+                "exclude",
+                "ignore"
+            ],
+            "keywords": [
+                "exclude",
+                "ignore"
+            ],
+            "name": "Being Ignored or Excluded",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Revealing Personal Information",
+            "constant": false,
+            "content": "Sharing someone's private or sensitive information without their consent can make them feel exposed and deeply embarrassed.",
+            "enabled": true,
+            "entry": "Sharing someone's private or sensitive information without their consent can make them feel exposed and deeply embarrassed.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 2,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 3,
+            "insertion_order": 10,
+            "keys": [
+                "personal",
+                "reveal",
+                "expose",
+                "exhibit"
+            ],
+            "keywords": [
+                "personal",
+                "reveal",
+                "expose",
+                "exhibit"
+            ],
+            "name": "Revealing Personal Information",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Insults or Derogatory Comments",
+            "constant": false,
+            "content": "Personal attacks, whether based on appearance, intelligence, background, or abilities, can be profoundly demeaning.",
+            "enabled": true,
+            "entry": "Personal attacks, whether based on appearance, intelligence, background, or abilities, can be profoundly demeaning.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 3,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 4,
+            "insertion_order": 10,
+            "keys": [
+                "insult",
+                "abilities",
+                "appearance",
+                "derogatory",
+                "comment",
+                "intelligence"
+            ],
+            "keywords": [
+                "insult",
+                "abilities",
+                "appearance",
+                "derogatory",
+                "comment",
+                "intelligence"
+            ],
+            "name": "Insults or Derogatory Comments",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Comparisons with Others",
+            "constant": false,
+            "content": "Being unfavorably compared to others, especially in areas of personal sensitivity such size and strength, can be very humiliating.",
+            "enabled": true,
+            "entry": "Being unfavorably compared to others, especially in areas of personal sensitivity such size and strength, can be very humiliating.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 4,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 5,
+            "insertion_order": 10,
+            "keys": [
+                "compare",
+                "sensitiv"
+            ],
+            "keywords": [
+                "compare",
+                "sensitiv"
+            ],
+            "name": "Comparisons with Others",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Blaming or Shaming for Mistakes",
+            "constant": false,
+            "content": "Excessively blaming someone for a mistake or shaming them for a failure, especially in front of others, can cause significant embarrassment or humiliation.",
+            "enabled": true,
+            "entry": "Excessively blaming someone for a mistake or shaming them for a failure, especially in front of others, can cause significant embarrassment or humiliation.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 5,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 6,
+            "insertion_order": 10,
+            "keys": [
+                "mistake",
+                "blame",
+                "shame"
+            ],
+            "keywords": [
+                "mistake",
+                "blame",
+                "shame"
+            ],
+            "name": "Blaming or Shaming for Mistakes",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Mocking or Mimicking",
+            "constant": false,
+            "content": "Imitating someone in a mocking way, especially regarding things they can't change, can be very belittling and humiliating.",
+            "enabled": true,
+            "entry": "Imitating someone in a mocking way, especially regarding things they can't change, can be very belittling and humiliating.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 6,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 7,
+            "insertion_order": 10,
+            "keys": [
+                "Mimick",
+                "belittl",
+                "Mock"
+            ],
+            "keywords": [
+                "Mimick",
+                "belittl",
+                "Mock"
+            ],
+            "name": "Mocking or Mimicking",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Unfair or Excessive Punishment",
+            "constant": false,
+            "content": "Being punished in a way that is seen as unjust or disproportionate to the offense can lead to feelings of humiliation.",
+            "enabled": true,
+            "entry": "Being punished in a way that is seen as unjust or disproportionate to the offense can lead to feelings of humiliation.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 7,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 8,
+            "insertion_order": 10,
+            "keys": [
+                "Punish",
+                "Excessive",
+                "fair"
+            ],
+            "keywords": [
+                "Punish",
+                "Excessive",
+                "fair"
+            ],
+            "name": "Unfair or Excessive Punishment",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Being Laughed At",
+            "constant": false,
+            "content": "Having people laugh at you, not with you, especially in a social setting, can be a very demeaning and humiliating experience.",
+            "enabled": true,
+            "entry": "Having people laugh at you, not with you, especially in a social setting, can be a very demeaning and humiliating experience.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 8,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 9,
+            "insertion_order": 10,
+            "keys": [
+                "laugh",
+                "demean"
+            ],
+            "keywords": [
+                "laugh",
+                "demean"
+            ],
+            "name": "Being Laughed At",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Setting Up to Fail",
+            "constant": false,
+            "content": "Putting someone in a situation where failure is almost certain, and then highlighting that failure, can be deeply humiliating.",
+            "enabled": true,
+            "entry": "Putting someone in a situation where failure is almost certain, and then highlighting that failure, can be deeply humiliating.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 9,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 10,
+            "insertion_order": 10,
+            "keys": [
+                "fail"
+            ],
+            "keywords": [
+                "fail"
+            ],
+            "name": "Setting Up to Fail",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Undermining Accomplishments",
+            "constant": false,
+            "content": "Dismissing or belittling someone's achievements or efforts can make them feel insignificant and humiliated.",
+            "enabled": true,
+            "entry": "Dismissing or belittling someone's achievements or efforts can make them feel insignificant and humiliated.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 10,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 11,
+            "insertion_order": 10,
+            "keys": [
+                "insignificant",
+                "Dismiss",
+                "effort",
+                "Accomplish",
+                "Undermin",
+                "achieve"
+            ],
+            "keywords": [
+                "insignificant",
+                "Dismiss",
+                "effort",
+                "Accomplish",
+                "Undermin",
+                "achieve"
+            ],
+            "name": "Undermining Accomplishments",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        },
+        {
+            "case_sensitive": false,
+            "comment": "Physical Humiliation",
+            "constant": false,
+            "content": "Any form of physical disrespect, like pushing or tripping someone in public, can be extremely humiliating.",
+            "enabled": true,
+            "entry": "Any form of physical disrespect, like pushing or tripping someone in public, can be extremely humiliating.",
+            "extensions": {
+                "addMemo": true,
+                "characterFilter": null,
+                "depth": 4,
+                "displayIndex": 11,
+                "excludeRecursion": false,
+                "useProbability": true,
+                "weight": 10
+            },
+            "id": 12,
+            "insertion_order": 10,
+            "keys": [
+                "disrespect",
+                "physical"
+            ],
+            "keywords": [
+                "disrespect",
+                "physical"
+            ],
+            "name": "Physical Humiliation",
+            "position": "1",
+            "priority": 10,
+            "secondary_keys": [],
+            "selective": true,
+            "weight": 10
+        }
+    ],
+    "extensions": {},
+    "is_creation": false,
+    "kind": "memory",
+    "name": "",
+    "recursive_scanning": false,
+    "scan_depth": 50,
+    "token_budget": 500
+}
