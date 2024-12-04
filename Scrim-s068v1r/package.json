@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s068v1r",
+  "description": "https://v2.scrimba.com/deploy-ai-apps-with-cloudflare-c037/~01",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "openai": "4.19.0",
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
