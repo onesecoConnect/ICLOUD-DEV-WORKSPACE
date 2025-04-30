@@ -1,12 +1,11 @@
 # Export from SSH Config Editor
 
-# CodeSandbox SSH Integration
-# End of CodeSandbox SSH Integration
-# --- Sourcetree Generated ---
-Host github.com
-	User cybersoulja
-	HostName github.com
-	IdentityFile /Users/cybersoulja/.ssh/cybersoulja-GitHub
-	PreferredAuthentications publickey
-	UseKeychain yes
-	AddKeysToAgent yes
+Host 
+	IdentityFile ~/.ssh/cybersoulja-GitHub
+	IdentityFile ~/.ssh/id_ed25519
+	IdentityFile ~/.ssh/id_ecdsa-gitlab
+	IdentityFile ~/.ssh/gcp_ssh
+	IdentityFile ~/.ssh/id_rsa-mb2iphone
+	IdentityFile ~/.ssh/id_ecdsa
+	IdentityFile ~/.ssh/id_ecdsa-shark
+	IdentityFile ~/.ssh/csb/csb_id_rsa_lm6xkg
