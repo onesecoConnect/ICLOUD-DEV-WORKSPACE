@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>CFBundleDisplayName</key>
+    <string>electron-fiddle</string>
+    <key>CFBundleExecutable</key>
+    <string>electron-fiddle</string>
+    <key>CFBundleIconFile</key>
+    <string>electron.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.electron.fiddle</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Electron Fiddle</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.39.0</string>
+    <key>CFBundleVersion</key>
+    <string>0.39.0</string>
+    <key>DTCompiler</key>
+    <string>com.apple.compilers.llvm.clang.1_0</string>
+    <key>DTSDKBuild</key>
+    <string>24F74</string>
+    <key>DTSDKName</key>
+    <string>macosx15.5</string>
+    <key>DTXcode</key>
+    <string>1640</string>
+    <key>DTXcodeBuild</key>
+    <string>16F6</string>
+    <key>ElectronAsarIntegrity</key>
+    <dict>
+      <key>Resources/app.asar</key>
+      <dict>
+        <key>algorithm</key>
+        <string>SHA256</string>
+        <key>hash</key>
+        <string>7994b6833a79ee606a9fff4731d25feb4c378c39d8829e02cdd977f7de246da6</string>
+      </dict>
+    </dict>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.developer-tools</string>
+    <key>LSEnvironment</key>
+    <dict>
+      <key>MallocNanoZone</key>
+      <string>0</string>
+    </dict>
+    <key>LSMinimumSystemVersion</key>
+    <string>12.0</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+    <key>NSAudioCaptureUsageDescription</key>
+    <string>Access is needed by certain built-in fiddles in addition to any custom fiddles that may capture Audio</string>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>This app needs access to Bluetooth</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>This app needs access to Bluetooth</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Access is needed by certain built-in fiddles in addition to any custom fiddles that use the Camera</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSMainNibFile</key>
+    <string>MainMenu</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Access is needed by certain built-in fiddles in addition to any custom fiddles that use the Microphone</string>
+    <key>NSPrefersDisplaySafeAreaCompatibilityMode</key>
+    <false/>
+    <key>NSPrincipalClass</key>
+    <string>AtomApplication</string>
+    <key>NSQuitAlwaysKeepsWindows</key>
+    <false/>
+    <key>NSRequiresAquaSystemAppearance</key>
+    <false/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLName</key>
+        <string>Electron Fiddle Launch Protocol</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>electron-fiddle</string>
+        </array>
+      </dict>
+    </array>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Access is needed by certain built-in fiddles in addition to any custom fiddles that may access Calendars</string>
+    <key>NSContactsUsageDescription</key>
+    <string>Access is needed by certain built-in fiddles in addition to any custom fiddles that may access Contacts</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Access is needed by certain built-in fiddles in addition to any custom fiddles that may access Reminders</string>
+  </dict>
+</plist>
